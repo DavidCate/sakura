@@ -14,7 +14,7 @@
         <module>config-center</module>
         <module>auth-center</module>
     </modules>
-
+    <description>SAKURA的应用</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
