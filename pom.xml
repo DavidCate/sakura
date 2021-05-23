@@ -10,14 +10,17 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>common-api</module>
-        <module>data-center</module>
-        <module>config-center</module>
-        <module>auth-center</module>
     </modules>
     <description>SAKURA的应用</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
+    <dependencyManagement>
+        <dependencies>
+
+        </dependencies>
+    </dependencyManagement>
 
 </project>
