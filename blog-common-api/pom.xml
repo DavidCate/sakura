@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>common-api</artifactId>
+    <artifactId>blog-common-api</artifactId>
     <description>公共模块</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
